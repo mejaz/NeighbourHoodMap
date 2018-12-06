@@ -17,3 +17,8 @@ Steps to launch the App:
 3. Run the command - `npm install`
 4. Run the command - `npm start`
 5. The MyReads application will start at local host port 3000 - http://127.0.0.1:3000
+
+
+Contact me:
+-----------
+mohdejazsiddiqui@gmail.com
