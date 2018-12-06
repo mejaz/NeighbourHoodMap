@@ -1,5 +1,4 @@
 {
-  "name": "neighborhood-map-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build"
-  },
-  "homepage": "https://manishbisht.github.io/Neighborhood-Map-React"
+  }
 }
